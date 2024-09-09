@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./vars.css">
+  <link rel="stylesheet" href="./style.css">
+  
+  <style>
+    a,
+    button,
+    input,
+    select,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        border: none;
+        text-decoration: none;
+        background: none;
+        -webkit-font-smoothing: antialiased;
+    }
+
+    menu, ol, ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    /* 클릭 가능한 원 (기본 색상: #f0ece4) */
+    .clickable-button {
+        background-color: #f0ece4;
+        border: none;
+        position: absolute;
+        width: 366px;
+        height: 366px;
+        border-radius: 50%;
+        box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+        cursor: pointer;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transition: background-color 0.3s ease; /* 색상이 부드럽게 변하는 효과 */
+    }
+
+    /* 호버 시 색상 변경 (clicked 상태가 아닐 때만 적용) */
+    .clickable-button:hover:not(.clicked) {
+        background-color: #f64e4b;
+    }
+
+    /* 클릭 후 고정된 색상 */
+    .clicked {
+        background-color: #f64e4b;
+    }
+
+    /* 원래 비율을 유지한 이미지 */
+    .clickable-image {
+        width: 150px;  /* 이미지의 크기를 적절히 조정 */
+        height: auto;  /* 이미지의 원본 비율을 유지 */
+        cursor: pointer;
+    }
+
+    /* 위치 조정 (각 원별로 다른 위치) */
+    #ellipseButton1 {
+        left: 225px;
+        top: 365px;
+    }
+
+    #ellipseButton2 {
+        left: 748px;
+        top: 365px;
+    }
+
+    #ellipseButton3 {
+        left: 1271px;
+        top: 365px;
+    }
+
+    #ellipseButton4 {
+        left: 1794px;
+        top: 365px;
+    }
+  </style>
+
+  <title>Document</title>
+</head>
+<body>
+  <div class="a-s-process-reservation-check">
+    <!-- 첫 번째 클릭 가능한 원과 이미지 -->
+    <button class="clickable-button" id="ellipseButton1">
+      <img src="free-icon-calendar-809500-10.png" alt="Calendar Icon" class="clickable-image" />
+    </button>
+
+    <!-- 두 번째 클릭 가능한 원과 이미지 -->
+    <button class="clickable-button" id="ellipseButton2">
+      <img src="free-icon-places-to-visit-4052266-10.png" alt="Places Icon" class="clickable-image" />
+    </button>
+
+    <!-- 세 번째 클릭 가능한 원과 이미지 -->
+    <button class="clickable-button" id="ellipseButton3">
+      <img src="free-icon-mechanic-8123859-10.png" alt="Mechanic Icon" class="clickable-image" />
+    </button>
+
+    <!-- 네 번째 클릭 가능한 원과 이미지 -->
+    <button class="clickable-button" id="ellipseButton4">
+      <img src="free-icon-done-5207911-10.png" alt="Done Icon" class="clickable-image" />
+    </button>
+
+    <!-- 나머지 기존 요소들 -->
+    <div class="line-2"></div>
+    <div class="rectangle-3096"></div>
+    <img class="vector" src="vector0.svg" />
+    <div class="menus">
+      <div class="menu">
+        <div class="services">TV/Audio/Video</div>
+      </div>
+      <div class="menu-2">
+        <div class="about-us">Home Appliances</div>
+      </div>
+      <div class="menu-3">
+        <div class="articles">Air Solutions</div>
+      </div>
+      <div class="menu-4">
+        <div class="healthcare-professionals">Computing</div>
+      </div>
+    </div>
+    <div class="buttons">
+      <div class="button">
+        <img class="vector2" src="vector1.svg" />
+        <div class="contact-us">Contact Us</div>
+      </div>
+    </div>
+    <div class="group-238441">
+      <img class="lge-logo-en-heritage-red-grey-2" src="lge-logo-en-heritage-red-grey-20.png" />
+      <div class="lg">LG</div>
+    </div>
+    <div class="group-238442">
+      <img class="lge-logo-en-heritage-red-grey-2" src="lge-logo-en-heritage-red-grey-21.png" />
+      <div class="lg">LG</div>
+    </div>
+    <div class="group-238443">
+      <img class="lge-logo-en-heritage-red-grey-2" src="lge-logo-en-heritage-red-grey-22.png" />
+      <div class="lg">LG</div>
+    </div>
+    <div class="dropdown">
+      <div class="text">English</div>
+      <img class="clip-path-group" src="clip-path-group0.svg" />
+    </div>
+    <img class="free-icon-confirm-467129-1" src="free-icon-confirm-467129-10.png" />
+    <div class="your-reservation-has-been-confirmed">Your reservation has been confirmed</div>
+  </div>
+
+  <script>
+    // 각 버튼별로 클릭 시 해당 버튼만 색상 고정, 나머지는 기본 색상으로 변경
+    const buttons = document.querySelectorAll('.clickable-button');
+
+    buttons.forEach(button => {
+      button.addEventListener('click', function() {
+        // 모든 버튼의 clicked 클래스를 제거하여 색상을 기본 상태로 되돌림
+        buttons.forEach(btn => {
+          btn.classList.remove('clicked');
+        });
+
+        // 클릭된 버튼에 색상 고정
+        button.classList.add('clicked');
+      });
+    });
+  </script>
+
+</body>
+</html>
