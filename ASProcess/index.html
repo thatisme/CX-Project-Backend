@@ -46,10 +46,10 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        transition: background-color 0.3s ease; /* 색상이 부드럽게 변하는 효과 */
+        transition: background-color 0.3s ease;
     }
 
-    /* 호버 시 색상 변경 (clicked 상태가 아닐 때만 적용) */
+    /* 호버 시 색상 변경 */
     .clickable-button:hover:not(.clicked) {
         background-color: #f64e4b;
     }
@@ -61,8 +61,8 @@
 
     /* 원래 비율을 유지한 이미지 */
     .clickable-image {
-        width: 150px;  /* 이미지의 크기를 적절히 조정 */
-        height: auto;  /* 이미지의 원본 비율을 유지 */
+        width: 150px;
+        height: auto;
         cursor: pointer;
     }
 
@@ -85,6 +85,56 @@
     #ellipseButton4 {
         left: 1794px;
         top: 365px;
+    }
+
+    /* 아래 추가된 요소들의 위치 및 스타일 */
+    .ellipse-10, .ellipse-14, .ellipse-12, .ellipse-11, .ellipse-15, .ellipse-13 {
+        background-color: #f0ece4;
+        border-radius: 50%;
+        position: absolute;
+        box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    }
+
+    .ellipse-10 {
+        width: 27px;
+        height: 27px;
+        left: 1152px;
+        top: 534px;
+    }
+
+    .ellipse-14 {
+        width: 27px;
+        height: 27px;
+        left: 629px;
+        top: 547px;
+    }
+
+    .ellipse-12 {
+        width: 27px;
+        height: 27px;
+        left: 1675px;
+        top: 534px;
+    }
+
+    .ellipse-11 {
+        width: 27px;
+        height: 27px;
+        left: 1207px;
+        top: 534px;
+    }
+
+    .ellipse-15 {
+        width: 27px;
+        height: 27px;
+        left: 684px;
+        top: 547px;
+    }
+
+    .ellipse-13 {
+        width: 27px;
+        height: 27px;
+        left: 1730px;
+        top: 534px;
     }
   </style>
 
@@ -111,6 +161,14 @@
     <button class="clickable-button" id="ellipseButton4">
       <img src="free-icon-done-5207911-10.png" alt="Done Icon" class="clickable-image" />
     </button>
+
+    <!-- 추가된 작은 원들 -->
+    <div class="ellipse-10"></div>
+    <div class="ellipse-14"></div>
+    <div class="ellipse-12"></div>
+    <div class="ellipse-11"></div>
+    <div class="ellipse-15"></div>
+    <div class="ellipse-13"></div>
 
     <!-- 나머지 기존 요소들 -->
     <div class="line-2"></div>
