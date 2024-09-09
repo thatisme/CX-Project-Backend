@@ -1,0 +1,258 @@
+._23-review-complete,
+._23-review-complete * {
+  box-sizing: border-box;
+}
+._23-review-complete {
+  height: 1651px;
+  position: relative;
+  overflow: hidden;
+}
+.navigation-bar {
+  position: absolute;
+  inset: 0;
+}
+.vector {
+  width: 100%;
+  height: 5.57%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 94.43%;
+  top: 0%;
+  overflow: visible;
+}
+.menus {
+  width: 1177px;
+  height: 26px;
+  position: static;
+}
+.menu {
+  width: 241px;
+  height: 26px;
+  position: static;
+}
+.services {
+  color: #545454;
+  text-align: center;
+  font-family: "LgEiHeadlineVf-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 72.67%;
+  left: 17.23%;
+  width: 10.1%;
+  bottom: 96.79%;
+  top: 1.64%;
+  height: 1.57%;
+}
+.menu-2 {
+  width: 267px;
+  height: 26px;
+  position: static;
+}
+.about-us {
+  color: #545454;
+  text-align: center;
+  font-family: "LgEiHeadlineVf-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 57.21%;
+  left: 31.6%;
+  width: 11.19%;
+  bottom: 96.79%;
+  top: 1.64%;
+  height: 1.57%;
+}
+.menu-3 {
+  width: 191px;
+  height: 26px;
+  position: static;
+}
+.articles {
+  color: #545454;
+  text-align: center;
+  font-family: "LgEiHeadlineVf-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 44.93%;
+  left: 47.07%;
+  width: 8.01%;
+  bottom: 96.79%;
+  top: 1.64%;
+  height: 1.57%;
+}
+.menu-4 {
+  width: 172px;
+  height: 25.3px;
+  position: static;
+}
+.healthcare-professionals {
+  color: #545454;
+  text-align: center;
+  font-family: "LgEiHeadlineVf-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 33.45%;
+  left: 59.35%;
+  width: 7.21%;
+  bottom: 96.83%;
+  top: 1.64%;
+  height: 1.53%;
+}
+.buttons {
+  width: 264px;
+  height: 56px;
+  position: static;
+}
+.button {
+  width: 264px;
+  height: 56px;
+  position: static;
+}
+.vector2 {
+  width: 11.06%;
+  height: 3.39%;
+  position: absolute;
+  right: 4.86%;
+  left: 84.07%;
+  bottom: 95.52%;
+  top: 1.09%;
+  overflow: visible;
+}
+.contact-us {
+  color: #545454;
+  text-align: center;
+  font-family: "LgEiHeadlineVf-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 6.2%;
+  left: 85.37%;
+  width: 8.42%;
+  bottom: 96.73%;
+  top: 1.57%;
+  height: 1.7%;
+}
+.group-238441 {
+  width: 150px;
+  height: 84px;
+  position: static;
+}
+.lge-logo-en-heritage-red-grey-2 {
+  width: 3.27%;
+  height: 5.09%;
+  position: absolute;
+  right: 95.22%;
+  left: 1.51%;
+  bottom: 94.67%;
+  top: 0.24%;
+  object-fit: cover;
+}
+.lg {
+  color: #545454;
+  text-align: left;
+  font-family: "LgEiHeadlineTtf-Bold", sans-serif;
+  font-size: 55px;
+  font-weight: 700;
+  position: absolute;
+  right: 92.2%;
+  left: 5.07%;
+  width: 2.72%;
+  bottom: 94.97%;
+  top: 0.55%;
+  height: 4.48%;
+}
+.group-238442 {
+  width: 150px;
+  height: 84px;
+  position: static;
+}
+.group-238443 {
+  width: 150px;
+  height: 84px;
+  position: static;
+}
+.dropdown {
+  width: 159px;
+  height: 38.7px;
+  position: static;
+}
+.text {
+  color: #545454;
+  text-align: left;
+  font-family: "LgEiHeadlineVf-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 19.07%;
+  left: 74.27%;
+  width: 6.66%;
+  bottom: 96.06%;
+  top: 1.64%;
+  height: 2.3%;
+}
+.clip-path-group {
+  width: 28.61px;
+  height: 38.7px;
+  position: absolute;
+  left: 1902.22px;
+  top: 27px;
+  overflow: visible;
+}
+.lge-logo-en-heritage-red-grey-3 {
+  width: 26.4%;
+  height: 41.43%;
+  position: absolute;
+  right: 34.49%;
+  left: 39.1%;
+  bottom: 20.05%;
+  top: 38.52%;
+  object-fit: cover;
+}
+.group-238470 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-3086 {
+  background: #fde9e8;
+  border-radius: 20px;
+  width: 32.1%;
+  height: 12.42%;
+  position: absolute;
+  right: 30.89%;
+  left: 37.01%;
+  bottom: 62.27%;
+  top: 25.32%;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.thank-you-for-taking-the-time-to-share-your-opinion-with-us {
+  color: #5e5a64;
+  text-align: left;
+  font-family: "LgEiTextTtf-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+  position: absolute;
+  right: 34.49%;
+  left: 38.89%;
+  width: 26.61%;
+  bottom: 63.48%;
+  top: 31.56%;
+  height: 4.97%;
+}
+.review-complete {
+  color: #a50034;
+  text-align: left;
+  font-family: "LgEiTextTtf-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  right: 44.68%;
+  left: 38.89%;
+  width: 16.43%;
+  bottom: 69.72%;
+  top: 26.71%;
+  height: 3.57%;
+}

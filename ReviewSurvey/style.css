@@ -1,0 +1,1086 @@
+._22-post-service-survey,
+._22-post-service-survey * {
+  box-sizing: border-box;
+}
+._22-post-service-survey {
+  height: 1651px;
+  position: relative;
+  overflow: hidden;
+}
+.title-5 {
+  color: #a50534;
+  text-align: left;
+  font-family: "LgEiHeadlineVf-Semibold", sans-serif;
+  font-size: 88px;
+  font-weight: 600;
+  position: absolute;
+  right: 55.07%;
+  left: 8.8%;
+  width: 36.13%;
+  bottom: 74.44%;
+  top: 19.32%;
+  height: 6.24%;
+}
+.navigation-bar {
+  position: absolute;
+  inset: 0;
+}
+.vector {
+  width: 100%;
+  height: 5.57%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 94.43%;
+  top: 0%;
+  overflow: visible;
+}
+.menus {
+  width: 1177px;
+  height: 26px;
+  position: static;
+}
+.menu {
+  width: 241px;
+  height: 26px;
+  position: static;
+}
+.services {
+  color: #545454;
+  text-align: center;
+  font-family: "LgEiHeadlineVf-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 72.67%;
+  left: 17.23%;
+  width: 10.1%;
+  bottom: 96.79%;
+  top: 1.64%;
+  height: 1.57%;
+}
+.menu-2 {
+  width: 267px;
+  height: 26px;
+  position: static;
+}
+.about-us {
+  color: #545454;
+  text-align: center;
+  font-family: "LgEiHeadlineVf-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 57.21%;
+  left: 31.6%;
+  width: 11.19%;
+  bottom: 96.79%;
+  top: 1.64%;
+  height: 1.57%;
+}
+.menu-3 {
+  width: 191px;
+  height: 26px;
+  position: static;
+}
+.articles {
+  color: #545454;
+  text-align: center;
+  font-family: "LgEiHeadlineVf-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 44.93%;
+  left: 47.07%;
+  width: 8.01%;
+  bottom: 96.79%;
+  top: 1.64%;
+  height: 1.57%;
+}
+.menu-4 {
+  width: 172px;
+  height: 25.3px;
+  position: static;
+}
+.healthcare-professionals {
+  color: #545454;
+  text-align: center;
+  font-family: "LgEiHeadlineVf-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 33.45%;
+  left: 59.35%;
+  width: 7.21%;
+  bottom: 96.83%;
+  top: 1.64%;
+  height: 1.53%;
+}
+.buttons {
+  width: 264px;
+  height: 56px;
+  position: static;
+}
+.button {
+  width: 264px;
+  height: 56px;
+  position: static;
+}
+.vector2 {
+  width: 11.06%;
+  height: 3.39%;
+  position: absolute;
+  right: 4.86%;
+  left: 84.07%;
+  bottom: 95.52%;
+  top: 1.09%;
+  overflow: visible;
+}
+.contact-us {
+  color: #545454;
+  text-align: center;
+  font-family: "LgEiHeadlineVf-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 6.2%;
+  left: 85.37%;
+  width: 8.42%;
+  bottom: 96.73%;
+  top: 1.57%;
+  height: 1.7%;
+}
+.group-238441 {
+  width: 150px;
+  height: 84px;
+  position: static;
+}
+.lge-logo-en-heritage-red-grey-2 {
+  width: 3.27%;
+  height: 5.09%;
+  position: absolute;
+  right: 95.22%;
+  left: 1.51%;
+  bottom: 94.67%;
+  top: 0.24%;
+  object-fit: cover;
+}
+.lg {
+  color: #545454;
+  text-align: left;
+  font-family: "LgEiHeadlineTtf-Bold", sans-serif;
+  font-size: 55px;
+  font-weight: 700;
+  position: absolute;
+  right: 92.2%;
+  left: 5.07%;
+  width: 2.72%;
+  bottom: 94.97%;
+  top: 0.55%;
+  height: 4.48%;
+}
+.group-238442 {
+  width: 150px;
+  height: 84px;
+  position: static;
+}
+.group-238443 {
+  width: 150px;
+  height: 84px;
+  position: static;
+}
+.dropdown {
+  width: 159px;
+  height: 38.7px;
+  position: static;
+}
+.text {
+  color: #545454;
+  text-align: left;
+  font-family: "LgEiHeadlineVf-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 19.07%;
+  left: 74.27%;
+  width: 6.66%;
+  bottom: 96.06%;
+  top: 1.64%;
+  height: 2.3%;
+}
+.clip-path-group {
+  width: 28.61px;
+  height: 38.7px;
+  position: absolute;
+  left: 1902.22px;
+  top: 27px;
+  overflow: visible;
+}
+.button2 {
+  background: #a50034;
+  border-radius: 20px;
+  padding: var(--var-sds-size-space-300, 30px);
+  display: flex;
+  flex-direction: row;
+  gap: var(--var-sds-size-space-200, 20px);
+  align-items: center;
+  justify-content: center;
+  width: 161px;
+  height: 83px;
+  position: absolute;
+  left: 1993px;
+  top: 1421px;
+  overflow: hidden;
+}
+.button3 {
+  color: var(--var-sds-color-text-brand-on-brand, #f5f5f5);
+  text-align: left;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: 40px;
+  line-height: 100%;
+  font-weight: var(--var-sds-typography-body-font-weight-regular, 400);
+  position: relative;
+}
+.q-4-more {
+  position: absolute;
+  inset: 0;
+}
+.bg-4 {
+  width: 966px;
+  height: 432px;
+  position: absolute;
+  left: 1215px;
+  top: 960px;
+  overflow: visible;
+}
+.text-4 {
+  width: 479.33px;
+  height: 87.99px;
+  position: static;
+}
+.title-4 {
+  color: #1e1b39;
+  text-align: left;
+  font-family: "LgSmartUi-SemiBold", sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  position: absolute;
+  right: 26.05%;
+  left: 58.55%;
+  width: 15.4%;
+  bottom: 33.93%;
+  top: 60.99%;
+  height: 5.08%;
+}
+.number-4 {
+  color: #4a3aff;
+  text-align: left;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 42px;
+  font-weight: 400;
+  position: absolute;
+  right: 43.59%;
+  left: 53.86%;
+  width: 2.56%;
+  bottom: 34.17%;
+  top: 60.74%;
+  height: 5.09%;
+}
+.textarea-field {
+  display: flex;
+  flex-direction: column;
+  gap: var(--var-sds-size-space-200, 22.88px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 790.39px;
+  height: 255.68px;
+  position: absolute;
+  left: 1303px;
+  top: 1087.3px;
+}
+.textarea {
+  background: var(--var-sds-color-background-default-default, #ffffff);
+  border-radius: 11.44px;
+  border-style: solid;
+  border-color: var(--var-sds-color-border-default-default, #d9d9d9);
+  border-width: 2.86px;
+  padding: var(--var-sds-size-space-300, 34.32px)
+    var(--var-sds-size-space-400, 45.76px)
+    var(--var-sds-size-space-300, 34.32px)
+    var(--var-sds-size-space-400, 45.76px);
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  min-width: 686.4px;
+  min-height: 228.8px;
+  position: relative;
+  overflow: hidden;
+}
+.value {
+  color: var(--var-sds-color-text-default-default, #1e1e1e);
+  text-align: left;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--var-sds-typography-body-size-medium, 45.76000213623047px);
+  line-height: 140%;
+  font-weight: var(--var-sds-typography-body-font-weight-regular, 400);
+  position: relative;
+  flex: 1;
+}
+.drag {
+  flex-shrink: 0;
+  width: 18.95px;
+  height: 18.95px;
+  position: absolute;
+  right: 14.35px;
+  bottom: 17.22px;
+  overflow: visible;
+}
+.q-3-time {
+  position: absolute;
+  inset: 0;
+}
+.card-overview-8 {
+  width: 967.51px;
+  height: 432px;
+  position: absolute;
+  left: 204px;
+  top: 961px;
+  overflow: visible;
+}
+.group-238473 {
+  width: 814.24px;
+  height: 89.73px;
+  position: static;
+}
+.text2 {
+  width: 814.24px;
+  height: 89.73px;
+  position: static;
+}
+.title {
+  color: #1e1b39;
+  text-align: left;
+  font-family: "LgSmartUi-SemiBold", sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  position: absolute;
+  right: 54.1%;
+  left: 16.22%;
+  width: 29.68%;
+  bottom: 34.24%;
+  top: 60.34%;
+  height: 5.42%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.number {
+  color: #4a3aff;
+  text-align: left;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 42px;
+  font-weight: 400;
+  position: absolute;
+  right: 85.75%;
+  left: 11.78%;
+  width: 2.47%;
+  bottom: 34.24%;
+  top: 60.33%;
+  height: 5.43%;
+}
+.never {
+  width: 619.73px;
+  height: 74.47px;
+  position: static;
+}
+.title2 {
+  color: #1e1b39;
+  text-align: left;
+  font-family: "LgSmartUi-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 58.46%;
+  left: 18.78%;
+  width: 22.77%;
+  bottom: 17.41%;
+  top: 79.41%;
+  height: 3.18%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.radio-buttons {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 71.97px;
+  height: 74.47px;
+  position: absolute;
+  left: 371.48px;
+  top: 1302.67px;
+}
+.container {
+  border-radius: 130px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.state-layer {
+  padding: 10.4px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.icon {
+  flex-shrink: 0;
+  width: 31.2px;
+  height: 31.2px;
+  position: relative;
+  overflow: visible;
+}
+.disagree {
+  width: 619.73px;
+  height: 74.47px;
+  position: static;
+}
+.title3 {
+  color: #1e1b39;
+  text-align: left;
+  font-family: "LgSmartUi-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 58.46%;
+  left: 18.78%;
+  width: 22.77%;
+  bottom: 20.63%;
+  top: 76.19%;
+  height: 3.18%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.radio-buttons2 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 71.97px;
+  height: 74.47px;
+  position: absolute;
+  left: 371.48px;
+  top: 1249.49px;
+}
+.icon2 {
+  flex-shrink: 0;
+  width: 31.2px;
+  height: 31.2px;
+  position: relative;
+  overflow: visible;
+}
+.neutral {
+  width: 619.73px;
+  height: 74.47px;
+  position: static;
+}
+.title4 {
+  color: #1e1b39;
+  text-align: left;
+  font-family: "LgSmartUi-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 58.46%;
+  left: 18.78%;
+  width: 22.77%;
+  bottom: 23.85%;
+  top: 72.97%;
+  height: 3.18%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.radio-buttons3 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 71.97px;
+  height: 74.47px;
+  position: absolute;
+  left: 371.48px;
+  top: 1196.31px;
+}
+.icon3 {
+  flex-shrink: 0;
+  width: 31.2px;
+  height: 31.2px;
+  position: relative;
+  overflow: visible;
+}
+.agree {
+  width: 663.15px;
+  height: 74.47px;
+  position: static;
+}
+.title5 {
+  color: #1e1b39;
+  text-align: left;
+  font-family: "LgSmartUi-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 56.64%;
+  left: 18.81%;
+  width: 24.55%;
+  bottom: 27.08%;
+  top: 69.74%;
+  height: 3.18%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.radio-buttons4 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 71.97px;
+  height: 74.47px;
+  position: absolute;
+  left: 371.48px;
+  top: 1144.18px;
+}
+.icon4 {
+  flex-shrink: 0;
+  width: 31.2px;
+  height: 31.2px;
+  position: relative;
+  overflow: visible;
+}
+.strongly-agree {
+  width: 683.91px;
+  height: 74.47px;
+  position: static;
+}
+.title6 {
+  color: #1e1b39;
+  text-align: left;
+  font-family: "LgSmartUi-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 55.77%;
+  left: 18.81%;
+  width: 25.43%;
+  bottom: 30.31%;
+  top: 66.51%;
+  height: 3.18%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.radio-buttons5 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 71.97px;
+  height: 74.47px;
+  position: absolute;
+  left: 371.48px;
+  top: 1091px;
+}
+.icon5 {
+  flex-shrink: 0;
+  width: 31.2px;
+  height: 31.2px;
+  position: relative;
+  overflow: visible;
+}
+.q-2-friendly {
+  position: absolute;
+  inset: 0;
+}
+.card-overview-82 {
+  width: 967.51px;
+  height: 432px;
+  position: absolute;
+  left: 1214px;
+  top: 497px;
+  overflow: visible;
+}
+.text3 {
+  width: 814px;
+  height: 57.35px;
+  position: static;
+}
+.title7 {
+  color: #1e1b39;
+  text-align: left;
+  font-family: "LgSmartUi-SemiBold", sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  position: absolute;
+  right: 11.78%;
+  left: 58.55%;
+  width: 29.67%;
+  bottom: 64.49%;
+  top: 32.04%;
+  height: 3.47%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.number2 {
+  color: #4a3aff;
+  text-align: left;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 42px;
+  font-weight: 400;
+  position: absolute;
+  right: 43.8%;
+  left: 54.11%;
+  width: 2.1%;
+  bottom: 64.49%;
+  top: 32.04%;
+  height: 3.47%;
+}
+.title8 {
+  color: #1e1b39;
+  text-align: left;
+  font-family: "LgSmartUi-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 14.31%;
+  left: 61.14%;
+  width: 24.55%;
+  bottom: 56.33%;
+  top: 40.49%;
+  height: 3.18%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.radio-buttons6 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 71.97px;
+  height: 74.47px;
+  position: absolute;
+  left: 1381.48px;
+  top: 661.18px;
+}
+.icon6 {
+  flex-shrink: 0;
+  width: 31.2px;
+  height: 31.2px;
+  position: relative;
+  overflow: visible;
+}
+.title9 {
+  color: #1e1b39;
+  text-align: left;
+  font-family: "LgSmartUi-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 16.13%;
+  left: 61.11%;
+  width: 22.77%;
+  bottom: 53.11%;
+  top: 43.71%;
+  height: 3.18%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.radio-buttons7 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 71.97px;
+  height: 74.47px;
+  position: absolute;
+  left: 1381.48px;
+  top: 713.31px;
+}
+.icon7 {
+  flex-shrink: 0;
+  width: 31.2px;
+  height: 31.2px;
+  position: relative;
+  overflow: visible;
+}
+.title10 {
+  color: #1e1b39;
+  text-align: left;
+  font-family: "LgSmartUi-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 16.13%;
+  left: 61.11%;
+  width: 22.77%;
+  bottom: 49.89%;
+  top: 46.93%;
+  height: 3.18%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.radio-buttons8 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 71.97px;
+  height: 74.47px;
+  position: absolute;
+  left: 1381.48px;
+  top: 766.49px;
+}
+.icon8 {
+  flex-shrink: 0;
+  width: 31.2px;
+  height: 31.2px;
+  position: relative;
+  overflow: visible;
+}
+.title11 {
+  color: #1e1b39;
+  text-align: left;
+  font-family: "LgSmartUi-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 16.13%;
+  left: 61.11%;
+  width: 22.77%;
+  bottom: 46.67%;
+  top: 50.15%;
+  height: 3.18%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.radio-buttons9 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 71.97px;
+  height: 74.47px;
+  position: absolute;
+  left: 1381.48px;
+  top: 819.67px;
+}
+.icon9 {
+  flex-shrink: 0;
+  width: 31.2px;
+  height: 31.2px;
+  position: relative;
+  overflow: visible;
+}
+.title12 {
+  color: #1e1b39;
+  text-align: left;
+  font-family: "LgSmartUi-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 13.44%;
+  left: 61.14%;
+  width: 25.43%;
+  bottom: 59.57%;
+  top: 37.25%;
+  height: 3.18%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.radio-buttons10 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 71.97px;
+  height: 74.47px;
+  position: absolute;
+  left: 1381.48px;
+  top: 608px;
+}
+.icon10 {
+  flex-shrink: 0;
+  width: 31.2px;
+  height: 31.2px;
+  position: relative;
+  overflow: visible;
+}
+.q-1-resolved {
+  position: absolute;
+  inset: 0;
+}
+.bg {
+  width: 40.55%;
+  height: 26.17%;
+  position: absolute;
+  right: 50.9%;
+  left: 8.55%;
+  bottom: 43.73%;
+  top: 30.1%;
+  overflow: visible;
+}
+.title13 {
+  color: #1e1b39;
+  text-align: left;
+  font-family: "LgSmartUi-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 58.46%;
+  left: 18.78%;
+  width: 22.77%;
+  bottom: 46.24%;
+  top: 50.58%;
+  height: 3.18%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.radio-buttons11 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 71.97px;
+  height: 74.47px;
+  position: absolute;
+  left: 371.48px;
+  top: 826.67px;
+}
+.icon11 {
+  flex-shrink: 0;
+  width: 31.2px;
+  height: 31.2px;
+  position: relative;
+  overflow: visible;
+}
+.title14 {
+  color: #1e1b39;
+  text-align: left;
+  font-family: "LgSmartUi-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 58.46%;
+  left: 18.78%;
+  width: 22.77%;
+  bottom: 49.46%;
+  top: 47.35%;
+  height: 3.18%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.radio-buttons12 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 71.97px;
+  height: 74.47px;
+  position: absolute;
+  left: 371.48px;
+  top: 773.49px;
+}
+.icon12 {
+  flex-shrink: 0;
+  width: 31.2px;
+  height: 31.2px;
+  position: relative;
+  overflow: visible;
+}
+.title15 {
+  color: #1e1b39;
+  text-align: left;
+  font-family: "LgSmartUi-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 58.46%;
+  left: 18.78%;
+  width: 22.77%;
+  bottom: 52.69%;
+  top: 44.13%;
+  height: 3.18%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.radio-buttons13 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 71.97px;
+  height: 74.47px;
+  position: absolute;
+  left: 371.48px;
+  top: 720.31px;
+}
+.icon13 {
+  flex-shrink: 0;
+  width: 31.2px;
+  height: 31.2px;
+  position: relative;
+  overflow: visible;
+}
+.title16 {
+  color: #1e1b39;
+  text-align: left;
+  font-family: "LgSmartUi-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 56.64%;
+  left: 18.81%;
+  width: 24.55%;
+  bottom: 55.91%;
+  top: 40.91%;
+  height: 3.18%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.radio-buttons14 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 71.97px;
+  height: 74.47px;
+  position: absolute;
+  left: 371.48px;
+  top: 668.18px;
+}
+.icon14 {
+  flex-shrink: 0;
+  width: 31.2px;
+  height: 31.2px;
+  position: relative;
+  overflow: visible;
+}
+.title17 {
+  color: #1e1b39;
+  text-align: left;
+  font-family: "LgSmartUi-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 55.77%;
+  left: 18.81%;
+  width: 25.43%;
+  bottom: 59.14%;
+  top: 37.68%;
+  height: 3.18%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.radio-buttons15 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 71.97px;
+  height: 74.47px;
+  position: absolute;
+  left: 371.48px;
+  top: 615px;
+}
+.icon15 {
+  flex-shrink: 0;
+  width: 31.2px;
+  height: 31.2px;
+  position: relative;
+  overflow: visible;
+}
+.text4 {
+  width: 814.24px;
+  height: 89.78px;
+  position: static;
+}
+.title18 {
+  color: #1e1b39;
+  text-align: left;
+  font-family: "LgSmartUi-SemiBold", sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  position: absolute;
+  right: 54.1%;
+  left: 16.22%;
+  width: 29.68%;
+  bottom: 62.52%;
+  top: 32.06%;
+  height: 5.42%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.number3 {
+  color: #4a3aff;
+  text-align: left;
+  font-family: "DmSans-Regular", sans-serif;
+  font-size: 42px;
+  font-weight: 400;
+  position: absolute;
+  right: 86.34%;
+  left: 11.78%;
+  width: 1.89%;
+  bottom: 62.52%;
+  top: 32.04%;
+  height: 5.44%;
+}
